@@ -1,0 +1,7 @@
+Deep Learning refers to training Neural Networks, sometimes very large Neural Networks.
+A Neural Network is a function that takes an input (x) and outputs a prediction (y).
+An example of a Neural Network is a Housing Price Prediction model, which takes the size of a house as an input and outputs the estimated price.
+The function used in this example is called a ReLU (rectified linear unit) function, which goes to zero and then takes off as a straight line.
+A larger Neural Network is formed by stacking together many single neurons.
+An example of a larger Neural Network is one that takes four inputs (size, number of bedrooms, zip code, wealth of the neighborhood) and outputs the estimated price.
+Neural Networks are most useful in supervised learning, where an input (x) is mapped to an output (y).
