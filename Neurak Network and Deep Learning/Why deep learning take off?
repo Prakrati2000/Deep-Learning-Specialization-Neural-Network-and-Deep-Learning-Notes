@@ -1,0 +1,7 @@
+Deep learning has been around for decades, but is only now taking off.
+The main drivers behind the rise of deep learning are the amount of data available and the ability to train large neural networks.
+The amount of data available has increased due to the digitization of society and the rise of inexpensive cameras, accelerometers, and other sensors.
+The ability to train large neural networks has been enabled by faster computation, such as GPUs and faster networking.
+Algorithmic innovation has also been a factor, such as switching from sigmoid to RELU functions, which has made gradient descent work faster.
+Faster computation has allowed practitioners and researchers to iterate faster and improve ideas faster.
+Data, computation, and algorithms are still working powerfully to make deep learning even better.
